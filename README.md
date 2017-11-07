@@ -6,6 +6,6 @@ Simple example of using docker.py to run a new container from an already downloa
 Also interacts with the image by capturing the response of Unix command run within it.
 
 ## access_image.py
-Another simple example of using docker.py. In this file an already running container is accessed by the Python script and respone frm running Unix command witin it is captured.
+Another simple example of using docker.py. In this file an already running container is accessed by the Python script and response from running Unix command within it is captured.
 
 

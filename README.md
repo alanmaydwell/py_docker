@@ -1,5 +1,5 @@
 # py_docker
-Practicing using Python SDK for Docker
+Practising using Python SDK for Docker
 
 ## run_image.py
 Simple example of using docker.py to run a new container from an already downloaded image.
